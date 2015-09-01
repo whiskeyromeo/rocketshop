@@ -41,7 +41,10 @@ Packages(all found via atmospherejs.com:
     meteor add accounts-google **requires configuration
   roles
     meteor add alanning:roles
-
+  alerts
+    meteor add juliancwirko:s-alert
+  checkout
+    
 Commands from the console:
   Meteor.user()  <--show the current user+properties
   Other commands : http://docs.meteor.com/#/basic/
