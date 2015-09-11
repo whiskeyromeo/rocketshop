@@ -44,7 +44,8 @@ Packages(all found via atmospherejs.com:
   alerts
     meteor add juliancwirko:s-alert
   checkout
-    
+    meteor --settings settings.development.json  <--When in development
+    meteor --settings settings.json <-- When deploying to production
 Commands from the console:
   Meteor.user()  <--show the current user+properties
   Other commands : http://docs.meteor.com/#/basic/
@@ -74,9 +75,9 @@ In order to use ORM style of interaction check out:
   meteor-collection-helpers
   graviton
 
-
-
 Testing: Velocity build into meteor --> Velocity.meteor.com
 ex: Mocha --> meteor add mike: mocha
 
+Stripe Configuration
+    
 

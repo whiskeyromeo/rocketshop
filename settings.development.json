@@ -1,6 +1,6 @@
 {
-    "stripeSecretKey" : "",
+    "stripeSecretKey" : "sk_test_PvdE16OskYA3MuGU05ULmM3b",
     "public" : {
-        "stripePublicKey": ""
+        "stripePublicKey": "pk_test_8jcO3OamRkDD8HnFx7ZkWMcv"
     }
 }
